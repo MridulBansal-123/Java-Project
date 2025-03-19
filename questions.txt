@@ -1,0 +1,5 @@
+What is the capital of France?,London,Paris,Berlin,Rome,1
+Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,1
+What is the largest mammal?,Elephant,Blue Whale,Giraffe,Hippopotamus,1
+Who developed the theory of relativity?,Newton,Einstein,Galileo,Bohr,1
+What is the square root of 64?,6,7,8,9,2
